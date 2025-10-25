@@ -1,9 +1,10 @@
 # MacroMagent $THA Litepaper
 
+![MacroMagent Agent](./agent.jpeg)
+
 ## 1. Plan
 
 Build out the capabilities of MacroMagent on the Chakra platform with social integrations and DeFi strategies to grow the agents reach and treasury. Then, begin building Masumi agents, listing them on Sokosumi, and generating revenue for the treasury. Lastly, setup staking for $THA holders to share the agents revenue
-
 
 ## 2. Platform Stack
 
@@ -17,9 +18,8 @@ Build out the capabilities of MacroMagent on the Chakra platform with social int
 
 ## 3. Development Roadmap
 
-- **Phase 1:** ✅ MacroAgent and core $THA token live 
+- **Phase 1:** ✅ MacroAgent and core $THA token live
 - **Phase 2:** Explore Chakra platform integrations, fund agent wallets, build out DeFi strategies, test agent functionality, and begin livestreaming development progress/updates to holders
 - **Phase 3:** Build Masumi Agents and connect agent outputs directly to interact with the $THA token
-- **Phase 4:** Iterate and scale: learn from experience what works, what doesn’t, and grow the agent ecosystem accordingly
+- **Phase 4:** Iterate and scale: learn from experience what works, what doesn't, and grow the agent ecosystem accordingly
 - **Phase 5:** Implement staking system for revenue sharing from the agent swarm to $THA holders
-
