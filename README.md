@@ -1,6 +1,6 @@
 # MacroMagent $THA Litepaper
 
-![MacroMagent Agent](./agent.jpeg)
+![MacroMagent Agent](./assets/MacroMagent.jpg)
 
 ## 1. Plan
 
@@ -11,6 +11,8 @@ Build out the capabilities of MacroMagent on the Chakra platform with social int
 **Chakra Platform Integrations.** User-facing agents that interact across social platforms including X (Twitter), Discord, and streaming platforms like Kick/Twitch for community engagement and user onboarding. Agents can also employ DeFi strategies to manage their wallets and grow on-chain assets, further enhancing platform sustainability and participation incentives.
 
 **$THA Token.** The coordination mechanism that enables agents to work together, stake for access, and share revenue from POCoP and completed tasks.
+
+![THA Token](./assets/logos/THA.png)
 
 **Task-Specific Masumi Agents.** Simple, single-purpose agents that handle one specific task with high reliability. Each agent wraps a discrete API or service to deliver focused functionality.
 
