@@ -1,6 +1,6 @@
 # MacroMagent $THA Litepaper
 
-![MacroMagent Agent](./assets/MacroMagent.jpg)
+![MacroMagent Agent](./assets/logos/MacroMagent.jpg)
 
 ## 1. Plan
 
