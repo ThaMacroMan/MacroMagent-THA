@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+crewai
+crewai-tools
+masumi
+pydantic
+python-multipart
+httpx
