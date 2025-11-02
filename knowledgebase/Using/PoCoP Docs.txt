@@ -1,0 +1,52 @@
+Introduction
+PoCoP (acronym for Proof-of-Commitment-Protocol) is an innovative way of remunerating users for their direct or indirect contribution to the promotion of Indigo Protocol. The Cardano blockchain is an ecosystem of enthusiasts guided by a committed community. We think it’s an interesting idea to be able to thank the community for its efforts and commitments.
+
+The members of the POG have therefore been looking for an innovative and decentralised way to allow everyone to participate freely and without constraints in the efforts that contribute to the knowledge of the protocol.
+
+Rules
+As voted by the DAO via the text-proposal #57 and enhanced with text-proposal #81:
+
+Requierments
+To avoid bots and creating accounts for the sole purpose of collecting rewards, each Twitter account must have a minimum of 100 followers, whereas other platforms require 50 subscribers.
+For X threads, only the first post is eligible. Moderators will vote accordingly if it's a long thread.
+Content about Chakra ( indigo sister platform ) is appreciated but is NOT ELIGIBLE.
+
+Content Categories
+YouTube
+Engaging video content for your audience
+
+Educational
+Tutorials on staking, CDPs, DeFi, and governance systems...
+
+Others
+Additional resources and content
+
+Each pool starts with 500 INDY as a monthly allocation 2025 April 1st, and:
+
+If all INDY for a given month is fully distributed for a given pool, add 50 INDY to the next month’s pool.
+If the monthly amount is not fully distributed for a given pool, subtract 50 INDY from the next month’s pool.
+All types of content (about Indigo) are welcome. Moderators will rank the content on a 1 (content with very limited added value, price prediction, etc.) to 10 scale, and creators will receive rewards during the month following participation ( arround mid-month ).
+
+Hard Cap for Content Ratings
+1 : 1 INDY max
+2 : 3 INDY max
+3 : 6 INDY max
+4 : 8 INDY max
+5 : 10 INDY max
+6 : 15 INDY max
+7 : 20 INDY max
+8 : 30 INDY max
+9 : 50 INDY max
+10 : 100 INDY max
+Karma
+To encourage continued or at least recurring participation:
+
+Each user gets a percentage bonus equivalent to their best rating for the month. The best possible bonus is 10% for a user who has created very-high-quality pieces of content.
+A hard cap of +50% karmic bonus is set to prevent veteran users from gaining an excessive advantage over newcomers.
+To support newcomers, we add a 10% karmic bonus for their first month.
+This percentage accumulates month after month.
+Origins
+We came up with the original idea of PoCoP on the Ergo blockchain and in particular Ergone, which already uses this mechanism that we try to adapt to our needs.
+
+Forging links
+Here are some X accounts related to indigo that you can follow for inspiration, discussions, questions, updates, and more.

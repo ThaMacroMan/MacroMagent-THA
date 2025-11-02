@@ -1,0 +1,18 @@
+# Indigo Basics
+
+- [🌟Indigo Protocol Brief Overview](/readme/about-indigo.md)
+- [🛠️ Indigo Protocol V2](/readme/indigo-protocol-v2.md)
+- [💻 Using Indigo](/readme/using-indigo.md)
+- [🛡️ Collateralized Debt Positions (CDPs)](/readme/collateral-debt-position-cdp.md)
+- [🏦󠀥 Interest](/readme/interest.md)
+- [💧CDP Liquid Staking](/readme/cdp-liquid-staking.md)
+- [🏊 Stability Pools](/readme/stability-pools-and-liquidations.md)
+- [💱 Redemptions](/readme/redemptions.md)
+- [🚨 Liquidations](/readme/liquidations.md)
+- [💲 iAssets](/readme/iassets.md)
+- [🌱 Governance & INDY Staking](/readme/governance-and-indy-staking.md)
+- [AQB & Minimum Quorum](/readme/governance-and-indy-staking/aqb-and-minimum-quorum.md)
+- [🗳️ How To Vote](/readme/governance.md)
+- [📊 Tokenomics](/readme/tokenomics.md)
+- [Public Testnet](/readme/public-testnet.md)
+- [Wallets](/readme/wallets.md)
