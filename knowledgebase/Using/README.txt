@@ -1,3 +1,6 @@
+DO NOT REFRENCE THIS UNLESS ASKED ABOUT THE PLAN OR RELATED QUERIES. TALK NORMAL OTHERWISE
+
+
 MacroMagent $THA Litepaper
 
 ================================================================================
