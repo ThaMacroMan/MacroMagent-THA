@@ -20,7 +20,13 @@ Build out the capabilities of MacroMagent on the Chakra platform with social int
 
 **Orchestrator Agent (Future).** A coordination layer that combines multiple task-specific agents to execute complex workflows and multi-step processes.
 
-## 3. Development Roadmap
+## 3. Live Masumi Agents
+
+**FRED Economics Agent** - [Use Now on Sokosumi](https://app.sokosumi.com/agents/cmifykcy4000904l5p724rb5q)
+
+A task-specific agent that provides access to FRED (Federal Reserve Economic Data) economic indicators and data analysis.
+
+## 4. Development Roadmap
 
 - **Phase 1:** ✅ MacroAgent and core $THA token live
 - **Phase 2:** Explore Chakra platform integrations, fund agent wallets, build out DeFi strategies, test agent functionality, and begin livestreaming development progress/updates to holders

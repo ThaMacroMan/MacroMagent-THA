@@ -16,3 +16,37 @@
 - [📊 Tokenomics](/readme/tokenomics.md)
 - [Public Testnet](/readme/public-testnet.md)
 - [Wallets](/readme/wallets.md)
+
+
+# 🛡️ Collateralized Debt Positions (CDPs)
+
+## **Overview 🌐**
+
+### Understanding CDPs
+
+* A Collateralized Debt Position (CDP) is fundamental to minting iAssets in the Indigo Protocol. By locking a minimum of 10 ADA as collateral, users can create a CDP, borrowing against this collateral on a variable interest rate to mint iAssets. The protocol ensures that each iAsset is over-collateralized, safeguarding the system against market volatility.
+
+## **Managing a CDP 🔄**
+
+### Actions for CDP Owners
+
+As a CDP owner, you have the flexibility to:
+
+1. **Deposit Collateral:** Increase your collateral ratio, potentially reducing the risk of liquidation.
+2. **Withdraw Collateral:** Decrease your collateral ratio, which may elevate liquidation risk.
+3. **Mint iAsset:** Mint additional iAssets, which may lower your collateral ratio.
+4. **Burn iAsset:** Increase your collateral ratio by burning iAssets. Burning all iAssets under a CDP closes it, returning your ADA collateral.
+5. **Close CDP:** Close off your CDP by burning all of the iAsset debt and settle the interest owed.
+
+## **Fees 💸**
+
+* Debt Minting Fee
+  * A percentage of the amount minted, deducted during the minting process to generate revenue from increased debt minting activities.
+* Interest Payment
+  * Interest is paid in ADA, based on the iAsset debt. Example: a user accrues 10 iUSD worth of interest, which is paid in an amount of ADA equal to the value of 10 iUSD.
+
+## **CDP Liquidation ⚠️**
+
+Locating and Understanding Liquidation
+
+* If your CDP is not locatable, it may have been undercollateralized and liquidated due to collateral or iAsset price fluctuations. For detailed insights into liquidation processes, refer to the dedicated liquidation section.
